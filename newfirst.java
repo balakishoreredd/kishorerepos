@@ -1,4 +1,4 @@
-written on master-branch...this is the first java programme in tcs project
+this is the first java programme in tcs project...the correct logic...suggested by manager...
 
 adding seccond line of code
 
